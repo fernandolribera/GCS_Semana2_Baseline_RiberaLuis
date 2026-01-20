@@ -1,0 +1,6 @@
+# Configuración del sistema
+host= localhost
+port= 8080
+DB_USER=usuario
+DB_PASSWORD=contraseña
+session_timeout_minutes: 15
